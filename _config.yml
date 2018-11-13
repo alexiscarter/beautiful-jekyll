@@ -18,6 +18,11 @@ description: personal webpage
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Current Research:
+    - Mycorrhizal Diversity: "research_div"
+    - Mycorrhizal Mediation of Decomposition: "research_decompo"
+    - Sugar Maple Migration: "research_migration"
+
   Resources:
     - BIOME workshop: "https://alexiscarter.github.io/BIOME/"
     - metab workshop: "https://alexiscarter.github.io/metab/"
