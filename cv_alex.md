@@ -7,7 +7,8 @@ title: CV
 - 2016-actuel: Doctorant, Institut de recherche en biologie végétale, Centre sur la biodiversité, département de sciences biologiques, Université de Montréal, Canada
 - 2010-2012: Master en Conservation de la biodiversité, Université de Montpellier II, France et Université d'Égée, Grèce
 - 2007-2010: Licence en Écologie, Université de Toulouse III, France
----
+
+***
 
 ### COMMUNICATIONS SCIENTIFIQUES
 #### Articles
@@ -25,7 +26,8 @@ title: CV
 6. Carteron A. Plant community dynamics: Underground spatio-temporal outlook. Séminaire scientifique de l'Université de Hohenheim, Stuttgart, Allemagne, Septembre 2016.
 7. Carteron A. Restauration écologique sur milieu utlramafique et espèces endémiques. Séminaire scientifique de l’Université de Nouvelle-Calédonie, Nouméa, Nouvelle-Calédonie, Juin 2012.
 8. Carteron A. Island biogeography and Anoles in the West Indies. Invité par la société herpétologique de l'Université de Bangor, Pays de Galles, Avril 2009.
----
+
+***
 
 ### DISTINCTIONS
 - 2019: 9ème récipiendaire de la bourse Marie-Victorin, [lien](http://www.irbv.umontreal.ca/2018/bourse-marie-victorin-9e-recipiendaire)
@@ -41,7 +43,8 @@ title: CV
 - 2010-2012: Bourse au mérite, ministère français de l'enseignement supérieur et de la recherche, France
 - 2009-2010: Bourse d’échange universitaire européen Erasmus, commission européenne
 - 2009-2010: Bourse d’étude à l’étranger, région Midi-Pyrénées, France
----
+
+***
 
 ### EXPÉRIENCES PRÉCÉDENTES EN RECHERCHE
 - Diversité fonctionnelle et résilience des écosystèmes forestiers locaux face aux climats extrêmes
@@ -54,7 +57,8 @@ title: CV
 <br/>Juin-Août 201 : Conservatoire botanique national méditerranéen de Porquerolles, France
 - Habitat, adaptation locale et gestion des populations de l’anole de Dominique
 <br/>Septembre 2009-Juin 2010: Unité de recherche en écologie et évolution des reptiles, Université de Bangor, Pays de Galles, Royaume-Uni
----
+
+***
 
 ### EXPÉRIENCES EN ENSEIGNEMENT
 - Automne 2018: Démonstrateur, cours de diversité fongique, Université de Montréal, Canada
@@ -62,7 +66,8 @@ title: CV
 - Printemps 2016: Tutorat pour le cours Biodiversité 2, Université de Montréal, Canada
 - Septembre 2015-Janvier 2016 et Septembre 2013-Juin 2014: Enseignant en sciences de la vie et de la terre aux collèges de Bram, Castelnaudary, Carcassonne et Rodez, France
 - Octobre 2014-Mai 2015: Volontaire service civique, formateur en environnement, centre de formation Don Bosco, Brest, France
----
+
+***
 
 ### SUPERVISION DE STAGIAIRES DE RECHERCHE
 - Florence B.: baccalauréat en sciences biologiques, Université de Montréal, Canada (Mai-Août 2018)
@@ -76,7 +81,8 @@ title: CV
 - Azucena H.: ingénierie en développement durable, institut de technologie et d'études supérieures de Monterrey, Mexique (Mai-Août 2016)
 - Myriam L.: baccalauréat en sciences biologiques, Université de Montréal, Canada (Mai-Août 2016)
 - Marie B.: ingénierie en biotechnologies, école d’ingénieurs Polytech Marseille, France (Mai-Juillet 2016)
----
+
+***
 
 ### IMPLICATION SOCIALE ET SERVICE À LA COLLECTIVITÉ
 - Président de l’Association des Étudiant·es-Chercheurs en Biologie de l’Université de Montréal. Depuis septembre 2018
