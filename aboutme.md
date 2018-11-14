@@ -15,3 +15,5 @@ Depuis 2016, sous la supervision d'Étienne Laliberté et Mark Vellend, je m'int
 - Université de Montréal ([Lien](https://www.umontreal.ca/))
 - Centre de la Science de la Biodiversité du Québec ([Lien](https://qcbs.ca/fr/))
 - Centre d'étude de la forêt ([Lien](http://www.cef-cfr.ca/))
+
+![](/img/centre.jpg)
