@@ -2,4 +2,5 @@
 layout: page
 title: Mycorrhizal Diversity
 ---
-![litterbags](/img/colored_maple.png)
+
+![](/img/colored_maple.jpg)
