@@ -6,12 +6,12 @@ title: Communications
 #### Articles
 1. Carteron A., Parasquive V., Blanchard F., Guilbeault-Mayers X., Turner B. L., Vellend M., Laliberté E. Soil abiotic and biotic properties constrain the establishment of a dominant temperate tree into boreal forests. Accepted in Journal of Ecology.
 1. Talaga S., Dézerald, O., Carteron A., Leroy C., Carrias J. F., Céréghino R., Dejean A. 2017. Urbanization impacts the taxonomic and functional structure of aquatic macroinvertebrate communities in a small Neotropical city. Urban Ecosystems 1-9.
-2. Talaga S., Dézerald O., Petitclerc F., Carteron A., Leroy C., Céréghino R., Dejean A. 2015. Tank bromeliads as natural microcosms: a facultative association with ants influences the aquatic invertebrate community structure. Comptes Rendus Biologies 10:696-700.
-3. Carteron A., Jeanmougin M., Leprieur F., Spatharis S. 2012. Assessing the efficiency of clustering algorithms and goodness-of-fit measures using phytoplankton field data. Ecological Informatics 9:64- 68. AC and MJ are co-first authors
+1. Talaga S., Dézerald O., Petitclerc F., Carteron A., Leroy C., Céréghino R., Dejean A. 2015. Tank bromeliads as natural microcosms: a facultative association with ants influences the aquatic invertebrate community structure. Comptes Rendus Biologies 10:696-700.
+1. Carteron A., Jeanmougin M., Leprieur F., Spatharis S. 2012. Assessing the efficiency of clustering algorithms and goodness-of-fit measures using phytoplankton field data. Ecological Informatics 9:64- 68. Co-first authors with MJ.
 
 #### Oral presentations
 1. Influence des mycorhizes en forêt tempérée : comparaison entre hêtraies et érablières au Québec. IXe Colloque de l'Association Francophone d'Ecologie Microbienne, Bussang, France. November 2019
-1. Ectomycorrhizal-dominated Temperate Forests Show Faster Decomposition of Soil Organic Matter than Neighbouring Arbuscular Mycorrhizal-dominated Forests. II International Symposium Mycorrhizal Symbiosis in South America, San Carlos de Bariloche, Argentina. March 2019
+1. Ectomycorrhizal-dominated temperate forests show faster decomposition of soil organic matter than neighbouring arbuscular mycorrhizal-dominated forests. II International Symposium Mycorrhizal Symbiosis in South America, San Carlos de Bariloche, Argentina. March 2019
 1. Ectomycorrhizal-dominated temperate forests show faster decomposition of soil organic matter than neighbouring arbuscular mycorrhizal-dominated forests. Colloque du Centre de la science de la biodiversité du Québec, Montréal. December 2018. *Second best oral presentation prize.*
 1. Changements majeurs des communautés fongiques de sol forestiers à différentes profondeurs et à stratégies mycorhiziennes contrastées. 5èmes journées francophones des mycorhizes, Dunkerque, France. June 2018. *Best oral presentation prize*
 2. Environmental DNA metabarcoding: From raw data to RDA. *Invited speaker*

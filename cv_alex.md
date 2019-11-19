@@ -11,44 +11,33 @@ title: Experiences
 
 ***
 
-### DISTINCTIONS
-- 2019: 9ème récipiendaire de la bourse Marie-Victorin, [lien](http://www.irbv.umontreal.ca/2018/bourse-marie-victorin-9e-recipiendaire)
-- 2018: Aide financière pour congrès, Centre d'étude de la forêt, Canada
-- 2018: Bourse de la réussite étudiante, Faculté des études supérieures et postdoctorales, Université de Montréal
-- 2017 et 2018: Prix d'excellence, Centre de la science de la biodiversité du Québec, Canada
-- 2017: Bourse de la réussite, Département de sciences biologiques de l'Université de Montréal
-- 2017: Prix pour cours intensif, Centre de la science de la biodiversité du Québec, Canada
-- 2017: Bourse du Fonds de bourses en Sciences biologiques, Département de sciences biologiques de l'Université de Montréal
-- 2016, 2017 et 2018: Bourse de voyage Jacques-Rousseau, Institut de recherche en biologie végétale, Canada
-- 2015: Lauréat de l’institut du service civique, France
-- 2011: Bourse d’étude à l’étranger, région Languedoc-Roussillon, France
-- 2010-2012: Bourse au mérite, ministère français de l'enseignement supérieur et de la recherche, France
-- 2009-2010: Bourse d’échange universitaire européen Erasmus, commission européenne
-- 2009-2010: Bourse d’étude à l’étranger, région Midi-Pyrénées, France
+### Outstanding awards
+- 2019 Hydro-Québec excellence fellow, Université de Montréal, Canada.
+- 2018 Marie-Victorin excellence fellow, Institut de recherche en biologie végétale, Canada. [link](http://www.irbv.umontreal.ca/2018/bourse-marie-victorin-9e-recipiendaire)
+- 2017 Student success fellow, Faculté des études supérieures et postdoctorales, Université de Montréal, Canada
+
+
+### Teaching
+- 2019: Lecturer, Plant ecology fieldwork course, Université de Montréal, Canada.
+- 2018: Teaching assistant Fungal diversity course, Université de Montréal, Canada.
+- 2016, 2017, 2018: Teaching assistant in chief, Plant ecology fieldwork course, Université de Montréal, Canada.
+- 2016: Tutor, Biodiversity course, Université de Montréal, Canada
+- September 2015-January 2016 and September 2013-June 2014: Secondary school teacher in biology and geology in Bram, Castelnaudary, Carcassonne and Rodez, France.
+- October 2014-May 2015: Civic service volunteer, environmental educator, Brest, France.
 
 ***
 
-
-### EXPÉRIENCES EN ENSEIGNEMENT
-- Automne 2018: Démonstrateur, cours de diversité fongique, Université de Montréal, Canada
-- Étés 2016, 2017, 2018: Chef-démonstrateur, stage d'écologie végétale, Université de Montréal, Canada
-- Printemps 2016: Tutorat pour le cours Biodiversité 2, Université de Montréal, Canada
-- Septembre 2015-Janvier 2016 et Septembre 2013-Juin 2014: Enseignant en sciences de la vie et de la terre aux collèges de Bram, Castelnaudary, Carcassonne et Rodez, France
-- Octobre 2014-Mai 2015: Volontaire service civique, formateur en environnement, centre de formation Don Bosco, Brest, France
-
-***
-
-### SUPERVISION DE STAGIAIRES DE RECHERCHE
-- Florence B.: baccalauréat en sciences biologiques, Université de Montréal, Canada (Mai-Août 2018)
-- Fabien C.: maitrise Biodiversité, écologie, évolution, Université Aix Marseille (Mars-Août 2018)
-- Florian P.: ingénierie environnement, École nationale des travaux publics de l'état, France (Avril-Août 2017)
+### Student supervision
+- Florence B.: B.Sc. in biological sciences, Université de Montréal, Canada (Mai-Août 2018)
+- Fabien C.: M.Sc. in biodiversity, ecology and evolution, Université Aix Marseille (Mars-Août 2018)
+- Florian P.: Environmental engineering, École nationale des travaux publics de l'état, France (Avril-Août 2017)
 - Rose-Marie G.: techniques de bioécologie, Cégep de Sherbrooke (Mai-Juillet 2017)
-- Émilie T.: baccalauréat en sciences biologiques, Université de Montréal, Canada (Août-Octobre 2016)
-- Rosalie B.: baccalauréat en sciences biologiques, Université de Montréal, Canada (Août-Septembre 2016)
-- Joric G.: baccalauréat en sciences biologiques, Université de Montréal, Canada (Juillet-Août 2016)
+- Émilie T.: B.Sc. in biological sciences, Université de Montréal, Canada (Août-Octobre 2016)
+- Rosalie B.: B.Sc. in biological sciences, Université de Montréal, Canada (Août-Septembre 2016)
+- Joric G.: B.Sc. in biological sciences, Université de Montréal, Canada (Juillet-Août 2016)
 - Vlad P.: ingénierie en horticulture, AgroCampus Ouest, France (Juin-Août 2016)
 - Azucena H.: ingénierie en développement durable, institut de technologie et d'études supérieures de Monterrey, Mexique (Mai-Août 2016)
-- Myriam L.: baccalauréat en sciences biologiques, Université de Montréal, Canada (Mai-Août 2016)
+- Myriam L.: B.Sc. in biological sciences, Université de Montréal, Canada (Mai-Août 2016)
 - Marie B.: ingénierie en biotechnologies, école d’ingénieurs Polytech Marseille, France (Mai-Juillet 2016)
 
 ***
