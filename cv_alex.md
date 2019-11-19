@@ -1,31 +1,13 @@
 ---
 layout: page
-title: CV
+title: Experiences
 ---
 
-### FORMATION UNIVERSITAIRE
-- 2016-actuel: Doctorant, Institut de recherche en biologie végétale, Centre sur la biodiversité, département de sciences biologiques, Université de Montréal, Canada
-- 2010-2012: Master en Conservation de la biodiversité, Université de Montpellier II, France et Université d'Égée, Grèce
-- 2007-2010: Licence en Écologie, Université de Toulouse III, France
+### Background
+- 2016-Now: Ph.D. in Ecology, Institut de recherche en biologie végétale, Centre sur la biodiversité, département de sciences biologiques, Université de Montréal, Canada
+- 2010-2012: M.Sc. in Biodiversity Conservation, Université de Montpellier II, France and the Aegean University, Greece
+- 2007-2010: B.Sc. in Ecology, Université de Toulouse III, France
 
-***
-
-### COMMUNICATIONS SCIENTIFIQUES
-#### Articles
-
-1. Talaga S., Dézerald, O., Carteron A., Leroy C., Carrias J. F., Céréghino R., Dejean A. 2017. Urbanization impacts the taxonomic and functional structure of aquatic macroinvertebrate communities in a small Neotropical city. Urban Ecosystems 1-9.
-2. Talaga S., Dézerald O., Petitclerc F., Carteron A., Leroy C., Céréghino R., Dejean A. 2015. Tank bromeliads as natural microcosms: a facultative association with ants influences the aquatic invertebrate community structure. Comptes Rendus Biologies 10:696-700.
-3. Carteron A., Jeanmougin M., Leprieur F., Spatharis S. 2012. Assessing the efficiency of clustering algorithms and goodness-of-fit measures using phytoplankton field data. Ecological Informatics 9:64- 68. AC and MJ are co-first authors
-
-#### Présentations orales
-1. Carteron A., Joly S., Beigas M., Turner B.L., Laliberté E. Changements majeurs des communautés fongiques de sol forestiers à différentes profondeurs et à stratégies mycorhiziennes contrastées. 5èmes journées francophones des mycorhizes, Dunkerque, France, Juin 2018. *Élue meilleure présentation orale.*
-2. Carteron A., Morvan S. Environmental DNA metabarcoding: From raw data to RDA. Conférencier
-3. Carteron A., Joly S., Beigas M., Turner B.L., Laliberté E. Major changes in soil fungal communities across soil horizons and between adjacent forests. Northeast Natural History Conference, Burlington, Vermont, États-Unis, Avril 2018. *Conférencier invité*
-4. Carteron A., Laliberté E. Rétroactions plantes-sol et stockage du carbone : impact des mycorhizes en forêt tempérée. Symposium du département de sciences biologiques de l'Université de Montréal, Mars 2017. *Élue meilleure présentation éclair*
-5. Carteron A. Understanding underground processes in temperate forests: Insights from sugar maple and American beech comparison. Colloque annuel du Centre de la science de la biodiversité du Québec, Montréal, Décembre 2016.*
-6. Carteron A. Plant community dynamics: Underground spatio-temporal outlook. Séminaire scientifique de l'Université de Hohenheim, Stuttgart, Allemagne, Septembre 2016.
-7. Carteron A. Restauration écologique sur milieu utlramafique et espèces endémiques. Séminaire scientifique de l’Université de Nouvelle-Calédonie, Nouméa, Nouvelle-Calédonie, Juin 2012.
-8. Carteron A. Island biogeography and Anoles in the West Indies. Invité par la société herpétologique de l'Université de Bangor, Pays de Galles, Avril 2009.
 
 ***
 

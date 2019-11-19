@@ -12,5 +12,5 @@ Microorganisms, both above and belowground have a major impact in ecosystem func
 Fungal hyphae colonizing litter in beech forest (Québec, Canada).
 
 ![](/img/victoria.jpg)
-Litterbags installed in a Pine plantation (Patagonia Norte, Argentina).
+Litterbags installed in a Pine plantation (Patagonia Norte, Argentina).  
 Collaborators: François Teste, Martin Nuñez and Florencia Spalazzi, CONICET.

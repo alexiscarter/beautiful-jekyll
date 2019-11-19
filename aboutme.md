@@ -4,7 +4,7 @@ title: About me
 ---
 ### My history
 
-Depuis 2016, sous la supervision d'Étienne Laliberté et Mark Vellend, je m'intéresse à mieux comprendre l'impact de l'association mycorhizienne entre arbres et champignons sur la distribution, la dynamique et le fonctionnement des érablières à sucre au Québec. Pour explorer le sol des érablières, je combine différentes approches de description, d’expériences en serre et sur le terrain, d'analyses bio-informatiques et statistiques. Continuellement à la recherche de nouvelles méthodes je m'applique aussi à les diffuser au mieux de mes connaissances.
+Since 2016, under the supervision of Etienne Laliberté (Université de Montréal) and Mark Vellend (Université de Sherbrooke), I have been interested in better understanding the impact of the mycorrhizal association between trees and fungi on the distribution, dynamics and functioning of temperate forests and especially maple forests in Québec. To explore the soil of maple forests, I combine different approaches from descriptive to greenhouse and field experiments, bioinformatics and statistical analysis. I am constantly looking for new methods and I also try to share them to the best of my knowledge.
 
 ### Affiliations
 - Laboratoire d'écologie fonctionnelle végétale dirigé par Étienne Laliberté ([Lien](http://www.elaliberte.info/))
