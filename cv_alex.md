@@ -28,19 +28,6 @@ title: Experiences
 
 ***
 
-### EXPÉRIENCES PRÉCÉDENTES EN RECHERCHE
-- Diversité fonctionnelle et résilience des écosystèmes forestiers locaux face aux climats extrêmes
-<br/>Février 2013-Juin 2013: Département d’écologie, Université de Lincoln, Nouvelle-Zélande
-- Restauration écologique d’anciennes carrières en Nouvelle-Calédonie : approche éco-physiologique pour le cas du Massif du Koniambo
-<br/> Septembre 2011-Juin 2012: Équipe de biologie végétale, Université de la Nouvelle-Calédonie, Nouméa, Nouvelle-Calédonie
-- Communautés d’insectes, conditions environnementales et traits fonctionnels des broméliacées
-<br/> Juin-Juillet 201 : Unité d’écologie des forêts de Guyane, Cnrs/Inra, Kourou, Guyane française
-- Prospections de plantes envahissantes, analyse cartographique et propositions de gestion
-<br/>Juin-Août 201 : Conservatoire botanique national méditerranéen de Porquerolles, France
-- Habitat, adaptation locale et gestion des populations de l’anole de Dominique
-<br/>Septembre 2009-Juin 2010: Unité de recherche en écologie et évolution des reptiles, Université de Bangor, Pays de Galles, Royaume-Uni
-
-***
 
 ### EXPÉRIENCES EN ENSEIGNEMENT
 - Automne 2018: Démonstrateur, cours de diversité fongique, Université de Montréal, Canada
