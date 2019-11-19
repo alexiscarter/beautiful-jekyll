@@ -1,6 +1,6 @@
 ---
 layout: page
-title: past_research
+title:
 ---
 
 
@@ -14,4 +14,4 @@ title: past_research
 - Invasive plant surveys, cartographic analysis and management proposals.
 <br/>June-August 201 : Conservatoire botanique national méditerranéen de Porquerolles, France.
 - Habitat, local adaptation and population management of the Dominican anole.
-<br/>Sptember 2009-June 2010: Bangor University, Wales.
+<br/>September 2009-June 2010: Bangor University, Wales.
