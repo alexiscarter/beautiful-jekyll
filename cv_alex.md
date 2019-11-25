@@ -14,8 +14,8 @@ title: Experiences
 ### Outstanding Awards
 - 2019 Hydro-Québec excellence fellow, Université de Montréal, Canada.
 - 2018 Marie-Victorin excellence fellow, Institut de recherche en biologie végétale, Canada. [link](https://www.irbv.umontreal.ca/2018/bourse-marie-victorin-9e-recipiendaire?lang=en)
-- 2017 Student success fellow, Faculté des études supérieures et postdoctorales, Université de Montréal, Canada
--2015 "Institut de l'engagement" fellow. [link](https://www.engagement.fr/)
+- 2017 Student success fellow, Faculté des études supérieures et postdoctorales, Université de Montréal, Canada  
+- 2015 "Institut de l'engagement" fellow. [link](https://www.engagement.fr/)
 
 
 ### Teaching
@@ -25,21 +25,6 @@ title: Experiences
 - 2016: Tutor, Biodiversity course, Université de Montréal, Canada
 - September 2015-January 2016 and September 2013-June 2014: Secondary school teacher in biology and geology in France.
 - October 2014-May 2015: Civic service volunteer, environmental educator, Brest, France.
-
-***
-
-### Student supervision and mentoring
-- Florence B.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2018)
-- Fabien C.: M.Sc. in biodiversity, ecology and evolution, Université Aix Marseille (March-August 2018)
-- Florian P.: Environmental engineering, École nationale des travaux publics de l'état, France (April-August 2017)
-- Rose-Marie G.: Diploma in Bio-ecology, Cégep de Sherbrooke (May-July 2017)
-- Émilie T.: B.Sc. in biological sciences, Université de Montréal, Canada (August-October 2016)
-- Rosalie B.: B.Sc. in biological sciences, Université de Montréal, Canada (August-September 2016)
-- Joric G.: B.Sc. in biological sciences, Université de Montréal, Canada (July-August 2016)
-- Vlad P.: Horticultural engineering, AgroCampus Ouest, France (June-August 2016)
-- Azucena H.: Sustainable development engineering, Instituto Tecnológico y de Estudios Superiores de Monterrey, Mexico (May-August 2016)
-- Myriam L.: B.Sc. in biological sciences, Université de Montréal, Canada (May-AUgust 2016)
-- Marie B.: Biotechnology engineering, école d’ingénieurs Polytech Marseille, France (May-July 2016)
 
 ***
 
@@ -53,3 +38,18 @@ title: Experiences
 - Organizer of the BIOME workshop, a 3-days workshop on BIO-infomratics for MEtabarcoding [Link](https://alexiscarter.github.io/BIOME)
 - Online bilingual (franch-english) tutorials [Link](https://alexiscarter.github.io/metab/)
 - Animator of the "Microbes club", discussion group composed of students, postdoc and prof of different universities in Montréal [Link](https://drive.google.com/drive/folders/0B7_16MCMWouWWjVkTktubU10dVU)
+
+***
+
+### Student supervision and mentoring
+- Florence B.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2018)
+- Fabien C.: M.Sc. in biodiversity, ecology and evolution, Université Aix Marseille (March-August 2018)
+- Florian P.: Environmental engineering, École nationale des travaux publics de l'état, France (April-August 2017)
+- Rose-Marie G.: Diploma in Bio-ecology, Cégep de Sherbrooke (May-July 2017)
+- Émilie T.: B.Sc. in biological sciences, Université de Montréal, Canada (August-October 2016)
+- Rosalie B.: B.Sc. in biological sciences, Université de Montréal, Canada (August-September 2016)
+- Joric G.: B.Sc. in biological sciences, Université de Montréal, Canada (July-August 2016)
+- Vlad P.: Horticultural engineering, AgroCampus Ouest, France (June-August 2016)
+- Azucena H.: Sustainable development engineering, Instituto Tecnológico y de Estudios Superiores de Monterrey, Mexico (May-August 2016)
+- Myriam L.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2016)
+- Marie B.: Biotechnology engineering, école d’ingénieurs Polytech Marseille, France (May-July 2016)
