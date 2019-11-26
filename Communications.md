@@ -4,10 +4,11 @@ title: Communications
 ---
 
 #### Articles
+1. Carteron A., Beigas M., Joly S., Turner B. L., Laliberté E. Temperate forests dominated by arbuscular or ectomycorrhizal fungi are characterized by strong shifts from saprotrophic to mycorrhizal fungi with increasing soil depth. Submitted.
 1. Carteron A., Parasquive V., Blanchard F., Guilbeault-Mayers X., Turner B. L., Vellend M., Laliberté E. Soil abiotic and biotic properties constrain the establishment of a dominant temperate tree into boreal forests. Accepted in Journal of Ecology.
-1. Talaga S., Dézerald, O., Carteron A., Leroy C., Carrias J. F., Céréghino R., Dejean A. 2017. Urbanization impacts the taxonomic and functional structure of aquatic macroinvertebrate communities in a small Neotropical city. Urban Ecosystems 1-9.
-1. Talaga S., Dézerald O., Petitclerc F., Carteron A., Leroy C., Céréghino R., Dejean A. 2015. Tank bromeliads as natural microcosms: a facultative association with ants influences the aquatic invertebrate community structure. Comptes Rendus Biologies 10:696-700.
-1. Carteron A., Jeanmougin M., Leprieur F., Spatharis S. 2012. Assessing the efficiency of clustering algorithms and goodness-of-fit measures using phytoplankton field data. Ecological Informatics 9:64- 68. Co-first authors with MJ.
+1. Talaga S., Dézerald, O., Carteron A., Leroy C., Carrias J. F., Céréghino R., Dejean A. 2017. Urbanization impacts the taxonomic and functional structure of aquatic macroinvertebrate communities in a small Neotropical city. Urban Ecosystems 1-9. [DOI](10.1007/s11252-017-0653-6) [PDF](/article/Talaga_etal17.pdf)
+1. Talaga S., Dézerald O., Petitclerc F., Carteron A., Leroy C., Céréghino R., Dejean A. 2015. Tank bromeliads as natural microcosms: a facultative association with ants influences the aquatic invertebrate community structure. Comptes Rendus Biologies 10:696-700. [DOI](http://dx.doi.org/10.1016/j.crvi.2015.05.006) [PDF](/article/Talaga_etal15.pdf)
+1. Carteron A., Jeanmougin M., Leprieur F., Spatharis S. 2012. Assessing the efficiency of clustering algorithms and goodness-of-fit measures using phytoplankton field data. Ecological Informatics 9:64- 68. Co-first authors with MJ. [DOI](10.1016/j.ecoinf.2012.03.008) [PDF](/article/Carteron_etal12.pdf)
 
 #### Oral presentations
 1. Influence des mycorhizes en forêt tempérée : comparaison entre hêtraies et érablières au Québec. IXe Colloque de l'Association Francophone d'Ecologie Microbienne, Bussang, France. November 2019
