@@ -15,4 +15,4 @@ Since 2016, under the supervision of Etienne Laliberté (Université de Montréa
 - Centre de la Science de la Biodiversité du Québec ([Link](https://qcbs.ca/fr/))
 - Centre d'étude de la forêt ([Link](http://www.cef-cfr.ca/))
 
-![](/img/centre.jpg)
+![](/img/centre1.jpg)
