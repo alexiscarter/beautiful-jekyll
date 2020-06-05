@@ -4,10 +4,9 @@ title: Communications
 ---
 
 #### Articles
-1. Carteron A., Beigas M., Joly S., Turner B. L., Laliberté E. Temperate forests dominated by arbuscular or ectomycorrhizal fungi are characterized by strong shifts from saprotrophic to mycorrhizal fungi with increasing soil depth. Accepted in Microbial Ecology.
+Carteron A., Beigas M., Joly S., Turner B. L., Laliberté E. Temperate forests dominated by arbuscular or ectomycorrhizal fungi are characterized by strong shifts from saprotrophic to mycorrhizal fungi with increasing soil depth. Accepted in Microbial Ecology.
 
-2. Carteron A., Parasquive V., Blanchard F., Guilbeault-Mayers X., Turner B. L., Vellend M., Laliberté E. 2020. Soil abiotic and biotic properties constrain the establishment of a dominant temperate tree into boreal forests. Journal of Ecology. [DOI](https://doi.org/10.1111/1365-2745.13326) [PDF](/article/mainDocument_maple_migration_final.pdf)
-
+Carteron A., Parasquive V., Blanchard F., Guilbeault-Mayers X., Turner B. L., Vellend M., Laliberté E. 2020. Soil abiotic and biotic properties constrain the establishment of a dominant temperate tree into boreal forests. Journal of Ecology. [DOI](https://doi.org/10.1111/1365-2745.13326) [PDF](/article/mainDocument_maple_migration_final.pdf)
 
 <div style="text-align: right">
 
@@ -15,11 +14,11 @@ title: Communications
 
 </div>
 
-3. Talaga S., Dézerald, O., Carteron A., Leroy C., Carrias J. F., Céréghino R., Dejean A. 2017. Urbanization impacts the taxonomic and functional structure of aquatic macroinvertebrate communities in a small Neotropical city. Urban Ecosystems 1-9. [DOI](http://dx.doi.org/10.1007/s11252-017-0653-6) [PDF](/article/Talaga_etal17.pdf)
+Talaga S., Dézerald, O., Carteron A., Leroy C., Carrias J. F., Céréghino R., Dejean A. 2017. Urbanization impacts the taxonomic and functional structure of aquatic macroinvertebrate communities in a small Neotropical city. Urban Ecosystems 1-9. [DOI](http://dx.doi.org/10.1007/s11252-017-0653-6) [PDF](/article/Talaga_etal17.pdf)
 
-4. Talaga S., Dézerald O., Petitclerc F., Carteron A., Leroy C., Céréghino R., Dejean A. 2015. Tank bromeliads as natural microcosms: a facultative association with ants influences the aquatic invertebrate community structure. Comptes Rendus Biologies 10:696-700. [DOI](http://dx.doi.org/10.1016/j.crvi.2015.05.006) [PDF](/article/Talaga_etal15.pdf)
+Talaga S., Dézerald O., Petitclerc F., Carteron A., Leroy C., Céréghino R., Dejean A. 2015. Tank bromeliads as natural microcosms: a facultative association with ants influences the aquatic invertebrate community structure. Comptes Rendus Biologies 10:696-700. [DOI](http://dx.doi.org/10.1016/j.crvi.2015.05.006) [PDF](/article/Talaga_etal15.pdf)
 
-5. Carteron A., Jeanmougin M., Leprieur F., Spatharis S. 2012. Assessing the efficiency of clustering algorithms and goodness-of-fit measures using phytoplankton field data. Ecological Informatics 9:64- 68. Co-first authors with MJ. [DOI](http://dx.doi.org/10.1016/j.ecoinf.2012.03.008) [PDF](/article/Carteron_etal12.pdf)
+Carteron A., Jeanmougin M., Leprieur F., Spatharis S. 2012. Assessing the efficiency of clustering algorithms and goodness-of-fit measures using phytoplankton field data. Ecological Informatics 9:64- 68. Co-first authors with MJ. [DOI](http://dx.doi.org/10.1016/j.ecoinf.2012.03.008) [PDF](/article/Carteron_etal12.pdf)
 
 #### Oral presentations
 1. Influence des mycorhizes en forêt tempérée : comparaison entre hêtraies et érablières au Québec. IXe Colloque de l'Association Francophone d'Ecologie Microbienne, Bussang, France. November 2019
