@@ -4,7 +4,7 @@ title: Communications
 ---
 
 #### Articles
-Carteron A., Beigas M., Joly S., Turner B. L., Laliberté E. Temperate forests dominated by arbuscular or ectomycorrhizal fungi are characterized by strong shifts from saprotrophic to mycorrhizal fungi with increasing soil depth. Accepted in Microbial Ecology.
+Carteron A., Beigas M., Joly S., Turner B. L., Laliberté E. Temperate forests dominated by arbuscular or ectomycorrhizal fungi are characterized by strong shifts from saprotrophic to mycorrhizal fungi with increasing soil depth. Accepted in Microbial Ecology. [PDF](/article/AAM_MicrobEcol_Carteron_etal_2020.pdf)
 
 Carteron A., Parasquive V., Blanchard F., Guilbeault-Mayers X., Turner B. L., Vellend M., Laliberté E. 2020. Soil abiotic and biotic properties constrain the establishment of a dominant temperate tree into boreal forests. Journal of Ecology. [DOI](https://doi.org/10.1111/1365-2745.13326) [PDF](/article/mainDocument_maple_migration_final.pdf)
 
