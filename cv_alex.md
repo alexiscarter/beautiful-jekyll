@@ -17,11 +17,12 @@ title: Experiences
 - 2017 Student success fellow, Faculté des études supérieures et postdoctorales, Université de Montréal, Canada  
 - 2015 "Institut de l'engagement" fellow. [link](https://www.engagement.fr/)
 
+***
 
 ### Teaching
 - 2019: Lecturer, Plant ecology fieldwork course, Université de Montréal, Canada.
 - 2018: Teaching assistant, Fungal diversity course, Université de Montréal, Canada.
-- 2016, 2017, 2018: Teaching assistant in chief, Plant ecology fieldwork course, Université de Montréal, Canada.
+- 2016, 2017, 2018: Head teaching assistant, Plant ecology fieldwork course, Université de Montréal, Canada.
 - 2016: Tutor, Biodiversity course, Université de Montréal, Canada
 - September 2015-January 2016 and September 2013-June 2014: Secondary school teacher in biology and geology in France.
 - October 2014-May 2015: Civic service volunteer, environmental educator, Brest, France.
@@ -42,6 +43,7 @@ title: Experiences
 ***
 
 ### Student supervision and mentoring
+- Alizée G.: M.Sc. in biological sciences, Université de Montréal (2018-2019)
 - Florence B.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2018)
 - Fabien C.: M.Sc. in biodiversity, ecology and evolution, Université Aix Marseille (March-August 2018)
 - Florian P.: Environmental engineering, École nationale des travaux publics de l'état, France (April-August 2017)
