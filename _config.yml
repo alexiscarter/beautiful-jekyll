@@ -25,7 +25,6 @@ navbar-links:
     - Past research: "past_research"
   Experiences: "cv_alex"
   Communication: "Communications"
-  Code: "code"
   Resources:
     - BIOME workshop: "https://alexiscarter.github.io/BIOME/"
     - metab workshop: "https://alexiscarter.github.io/metab/"
