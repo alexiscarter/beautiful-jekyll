@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Communications
+title: Publications
 ---
 
-### Publications  
 #### Plant-soil interactions
-Carteron A, Beigas M, Joly S, Turner B L, Laliberté E. 2020. Temperate forests dominated by arbuscular or ectomycorrhizal fungi are characterized by strong shifts from saprotrophic to mycorrhizal fungi with increasing soil depth. Microbial Ecology. [DOI](https://doi.org/10.1007/s00248-020-01540-7) [Free](https://rdcu.be/b49t7) [PDF](/article/AAM_MicrobEcol_Carteron_etal_2020.pdf)
 
-Carteron A, Parasquive V, Blanchard F, Guilbeault-Mayers X, Turner B L, Vellend M, Laliberté E. 2020. Soil abiotic and biotic properties constrain the establishment of a dominant temperate tree into boreal forests. Journal of Ecology. [DOI](https://doi.org/10.1111/1365-2745.13326) [PDF](/article/mainDocument_maple_migration_final.pdf)
+Carteron A, Vellend M, Laliberté E. Mycorrhizal dominance reduces forest-tree species diversity. Submitted.
+
+Carteron A, Cichonski F, Laliberté E. Ectomycorrhizas accelerate decomposition to a greater extent than arbuscular mycorrhizas in a northern deciduous forest. Submitted.
+
+Carteron A, Beigas M, Joly S, Turner B L, Laliberté E. 2020. Temperate forests dominated by arbuscular or ectomycorrhizal fungi are characterized by strong shifts from saprotrophic to mycorrhizal fungi with increasing soil depth. Microbial Ecology. [DOI](https://doi.org/10.1007/s00248-020-01540-7) [PDF](/article/AAM_MicrobEcol_Carteron_etal_2020.pdf) [Free](https://rdcu.be/b49t7)
+
+Carteron A, Parasquive V, Blanchard F, Guilbeault-Mayers X, Turner BL, Vellend M, Laliberté E. 2020. Soil abiotic and biotic properties constrain the establishment of a dominant temperate tree into boreal forests. Journal of Ecology. [DOI](https://doi.org/10.1111/1365-2745.13326) [PDF](/article/mainDocument_maple_migration_final.pdf)
 
 <div style="text-align: right">
 
@@ -16,7 +20,9 @@ Carteron A, Parasquive V, Blanchard F, Guilbeault-Mayers X, Turner B L, Vellend 
 
 #### Environmental changes
 
-Girard A, Schweiger A K, Carteron A, Kalacska M, Laliberté E. Foliar spectra and traits of bog plants across nitrogen deposition gradients. Submitted.
+Vellend M, Béhé M, Carteron A, Crofts A, Danneyrolles V, Gamhewa H, Glaus V, Plourde-Rouleau A, Ni M, Rinas C, Watts D. Plant responses to environmental change along an elevational gradient in Mont Mégantic National Park, Québec, Canada. Submitted.
+
+Girard A, Schweiger AK, Carteron A, Kalacska M, Laliberté E. 2020. Foliar spectra and traits of bog plants across nitrogen deposition gradients. Remote Sensing 12, 2448. [DOI](https://doi.org/10.3390/rs12152448)
 
 Talaga S, Dézerald O, Carteron A, Leroy C, Carrias J F, Céréghino R, Dejean A. 2017. Urbanization impacts the taxonomic and functional structure of aquatic macroinvertebrate communities in a small Neotropical city. Urban Ecosystems 1-9. [DOI](http://dx.doi.org/10.1007/s11252-017-0653-6) [PDF](/article/Talaga_etal17.pdf)
 
