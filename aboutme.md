@@ -10,11 +10,11 @@ Before that, I studied in several universities in Europe and participated in dif
 [Institutional page](https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/alexis-carteron/#c124868)
 
 ### Affiliations
-- Plant functional ecology lab led by Etienne Laliberté ([Link](https://lefo.ca/))
-- Centre sur la Biodiversité, Institut de Recherche en Biologie Végétale ([Link](http://www.irbv.umontreal.ca/))
-- Université de Montréal ([Link](https://www.umontreal.ca/))
-- Quebec Centre for Biodiversity Science ([Link](https://qcbs.ca/))
-- Centre for Forest Research ([Link](http://www.cef-cfr.ca/))
+- Plant functional ecology lab led by Etienne Laliberté ([link](https://lefo.ca/))
+- Centre sur la Biodiversité, Institut de Recherche en Biologie Végétale ([link](http://www.irbv.umontreal.ca/))
+- Université de Montréal ([link](https://www.umontreal.ca/))
+- Quebec Centre for Biodiversity Science ([link](https://qcbs.ca/))
+- Centre for Forest Research ([link](http://www.cef-cfr.ca/))
 
 ![](/img/centre1.jpg)
 
@@ -25,7 +25,8 @@ Before that, I studied in several universities in Europe and participated in dif
 Supervisors : Etienne Laliberté and Mark Vellend  
 Subject: Mycorrhizal dominance as a local determinant of forest ecological processes
 
-- 2010-2012: M.Sc. in biodiversity conservation, Université de Montpellier II, France and the Aegean University, Greece
+- 2010-2012: M.Sc. in biodiversity conservation, Université de Montpellier II, France and the Aegean University, Greece  
+
 - 2007-2010: B.Sc. in ecology, Université de Toulouse III, France
 
 
@@ -34,15 +35,16 @@ Subject: Mycorrhizal dominance as a local determinant of forest ecological proce
 ### Outstanding Awards
 - 2019 Hydro-Québec excellence fellow, Université de Montréal, Canada.
 
-- 2018 Marie-Victorin excellence fellow, Institut de recherche en biologie végétale, Canada. [link](https://www.irbv.umontreal.ca/2018/bourse-marie-victorin-9e-recipiendaire?lang=en)
-- 2017 Student success fellow, Faculté des études supérieures et postdoctorales, Université de Montréal, Canada  
-- 2015 "Institut de l'engagement" fellow. [link](https://www.engagement.fr/)
+- 2018 Marie-Victorin excellence fellow, Institut de recherche en biologie végétale, Canada ([link](https://www.irbv.umontreal.ca/2018/bourse-marie-victorin-9e-recipiendaire?lang=en))  
+
+- 2017 Student success fellow, Faculté des études supérieures et postdoctorales, Université de Montréal, Canada    
+
+- 2015 "Institut de l'engagement" fellow ([link](https://www.engagement.fr/))
 
 ***
 
 ### Teaching
 - 2019: Lecturer, Plant ecology fieldwork course, Université de Montréal, Canada.
-
 - 2018: Teaching assistant, Fungal diversity course, Université de Montréal, Canada.
 - 2016, 2017, 2018: Head teaching assistant, Plant ecology fieldwork course, Université de Montréal, Canada.
 - 2016: Tutor, Biodiversity course, Université de Montréal, Canada
@@ -53,7 +55,6 @@ Subject: Mycorrhizal dominance as a local determinant of forest ecological proce
 
 ### Service
 - Peer Review: Plant and Soil [Link](https://publons.com/researcher/1728481/alexis-carteron/)
-
 - R coordinator for the QCBS [Link](https://qcbs.ca/wiki/r)
 - Organizing committee of the Microbial Ecology Seminar Series of the QCBS [Link](https://wiki.qcbs.ca/microecoconf)
 - President of the graduate biology student association, Université de Montréal (2018-2019)
