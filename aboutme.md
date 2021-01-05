@@ -18,7 +18,7 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 - Quebec Centre for Biodiversity Science ([link](https://qcbs.ca/))
 - Centre for Forest Research ([link](http://www.cef-cfr.ca/))
 
-![](/img/centre2.jpg)Centre sur la biodiversité
+![](/img/centre2.jpg)Centre sur la biodiversité, Montréal
 
 ***
 

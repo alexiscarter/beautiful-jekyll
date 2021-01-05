@@ -8,7 +8,7 @@ url: "https://alexiscarter.github.io"
 baseurl: ""
 
 # Name of website
-title: Alexis Carteron
+title: Home
 
 # Short description of your site
 description: Personal website
@@ -29,7 +29,7 @@ navbar-links:
   Resources:
     - BIOME workshop: "https://alexiscarter.github.io/BIOME/"
     - metab workshop: "https://alexiscarter.github.io/metab/"
-    - R: "https://wiki.qcbs.ca/r"
+    - R with the QCBS: "https://wiki.qcbs.ca/r"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
 

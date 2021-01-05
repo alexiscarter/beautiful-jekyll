@@ -35,4 +35,5 @@ Carteron A et al. 2020. Analyses of seedling performance, root colonization and 
 
 Carteron A, Jeanmougin M, Leprieur F, Spatharis S. 2012. Assessing the efficiency of clustering algorithms and goodness-of-fit measures using phytoplankton field data. Ecological Informatics 9:64- 68. Co-first authors with MJ. [DOI](http://dx.doi.org/10.1016/j.ecoinf.2012.03.008) [PDF](/article/Carteron_etal12.pdf)
 
-![](https://imgs.xkcd.com/comics/research_areas_by_size_and_countedness.png ) I study rather small things that little is known about... Source: xkcd.com
+![](https://imgs.xkcd.com/comics/research_areas_by_size_and_countedness.png )
+I study rather small things that little is known about... Source: xkcd.com
