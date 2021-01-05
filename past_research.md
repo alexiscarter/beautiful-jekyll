@@ -14,6 +14,11 @@ September 2011-June 2012: Université de la Nouvelle-Calédonie, Nouméa, Nouvel
 - Insect communities, environmental conditions and functional traits of bromeliads.  
 June-July 2011 : Unité d’écologie des forêts de Guyane, Cnrs/Inra, Kourou, Guyane.  
 
+![](/img/canopy.jpg)
+<div style="text-align: right">Canopy morning view, Guyane</div>
+
+<br/>
+
 - Invasive plant surveys, cartographic analysis and management proposals.  
 June-August 2010 : Conservatoire botanique national méditerranéen de Porquerolles, France.
 

@@ -4,11 +4,8 @@ title: About Me
 ---
 ### My history
 
-<div style="text-align: justify"> Raised in the Antilles, educated in Europe and trained as a researcher around the world.  
-
-Since 2016, I have been interested in better understanding the impact of the symbiotic association between trees and fungi on the distribution, dynamics and functioning of forests and especially maple forests in Québec. To explore the soil of these forests, I combine different approaches ranging from descriptive to greenhouse and field experiments, bioinformatics and statistical analysis. I am constantly looking for new methods and I also try to share them to the best of my knowledge.  
-
-Before that, I had the privilege of studying in several universities in Europe and participated in different research projects around the world. When I was not doing research, I taught biology, geology and sustainable development to teenagers.
+<div style="text-align: justify">
+Raised in the Antilles, educated in Europe and trained as a researcher around the world.Since 2016, I have been interested in better understanding the impact of the symbiotic association between trees and fungi on the distribution, dynamics and functioning of forests and especially maple forests in Québec. To explore the soil of these forests, I combine different approaches ranging from descriptive to greenhouse and field experiments, bioinformatics and statistical analysis. I am constantly looking for new methods and I also try to share them to the best of my knowledge. Before that, I had the privilege of studying in several universities in Europe and participated in different research projects around the world. When I was not doing research, I taught biology, geology and sustainable development to teenagers.
 </div>
 
 ***
@@ -22,6 +19,7 @@ Before that, I had the privilege of studying in several universities in Europe a
 - Centre for Forest Research ([link](http://www.cef-cfr.ca/))
 
 ![](/img/centre2.jpg)
+<div style="text-align: right">Centre sur la biodiversité</div>
 
 ***
 
@@ -35,6 +33,7 @@ Before that, I had the privilege of studying in several universities in Europe a
 - 2007-2010: B.Sc. in ecology, Université de Toulouse III, France
 
 ![](/img/mytilene.jpg)
+<div style="text-align: right">Mytilene, Greece</div>
 
 ***
 
@@ -58,6 +57,7 @@ Before that, I had the privilege of studying in several universities in Europe a
 - October 2014-May 2015: Civic service volunteer, environmental educator, Brest, France.
 
 ![](/img/bog.jpg)
+<div style="text-align: right">Bog plant identification, Laurentides</div>
 
 ***
 
@@ -73,10 +73,14 @@ Before that, I had the privilege of studying in several universities in Europe a
 - Animator of the "Microbes club", discussion group composed of students, postdoc and prof of different universities in Montréal [Link](https://drive.google.com/drive/folders/0B7_16MCMWouWWjVkTktubU10dVU)
 
 ![](/img/BIOME_lake.jpg)
+<div style="text-align: right">BIOME workshop participants, Laurentides</div>
 
 ***
 
 ### Student supervision and mentoring
+
+<div style="text-align: justify">
+
 - Mathilde L.: B.Sc. in biological sciences, Université de Montréal, Canada (September-December 2018)
 - Florence B.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2018)
 - Fabien C.: M.Sc. in biodiversity, ecology and evolution, Université Aix Marseille (March-August 2018)
