@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mycorrhizal Mediation of Decomposition
+title: Mycorrhizas and Decomposition
 ---
 #### Project
 Is Ecosystem Carbon Storage Mediated by Mycorrhiza? Insights from Experiments Using Co-occurring Forests Dominated by Arbuscular Mycorrhizal or Ectomycorrhizal
@@ -10,6 +10,7 @@ Microorganisms, both above and belowground have a major impact in ecosystem func
 
 ![](/img/litterbags.jpg)
 Fungal hyphae colonizing litter in beech forest (Québec, Canada).
+Collaborator: Etienne Laliberté  
 
 ![](/img/victoria.jpg)
 Litterbags installed in a Pine plantation (Patagonia Norte, Argentina).  
