@@ -9,9 +9,11 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 Since 2016, I have been interested in better understanding the impact of the symbiotic association between trees and fungi on the distribution, dynamics and functioning of forests and especially maple forests in Québec. To explore the soil of these forests, I combine different approaches ranging from descriptive to greenhouse and field experiments, bioinformatics and statistical analysis. I am constantly looking for new methods and I also try to share them to the best of my knowledge.  
 Before that, I had the privilege of studying in several universities in Europe and participated in different research projects around the world. When I was not doing research, I taught biology, geology and sustainable development to teenagers.
 
-[Institutional page](https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/alexis-carteron/#c124868)
+***
+
 
 ### Affiliations
+- Institutional page [link](https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/alexis-carteron/#c124868)
 - Plant functional ecology lab led by Etienne Laliberté ([link](https://lefo.ca/))
 - Centre sur la Biodiversité, Institut de Recherche en Biologie Végétale ([link](http://www.irbv.umontreal.ca/))
 - Université de Montréal ([link](https://www.umontreal.ca/))

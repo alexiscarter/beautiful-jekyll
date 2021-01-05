@@ -20,8 +20,8 @@ navbar-links:
   About Me: "aboutme"
   Research:
     - Mycorrhizal Diversity: "research_div"
-    - Mycorrhizal Mediation of Decomposition: "research_decompo"
-    - Sugar Maple Migration: "research_migration"
+    - Mycorrhizas and Decomposition: "research_decompo"
+    - Range shifts: "research_migration"
     - Past research: "past_research"
     - Publications: "publications"
     - Communications: "Communications"
