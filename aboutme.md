@@ -78,9 +78,6 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 ***
 
 ### Student supervision and mentoring
-
-<div style="text-align: justify">
-
 - Mathilde L.: B.Sc. in biological sciences, Université de Montréal, Canada (September-December 2018)
 - Florence B.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2018)
 - Fabien C.: M.Sc. in biodiversity, ecology and evolution, Université Aix Marseille (March-August 2018)
@@ -93,5 +90,3 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 - Azucena H.: Sustainable development engineering, Instituto Tecnológico y de Estudios Superiores de Monterrey, Mexico (May-August 2016)
 - Myriam L.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2016)
 - Marie B.: Biotechnology engineering, école d’ingénieurs Polytech Marseille, France (May-July 2016)
-
-</div>

@@ -24,3 +24,5 @@ title: Communications
 7. Restauration écologique sur milieu utlramafique et espèces endémiques. Séminaire scientifique de l’Université de Nouvelle-Calédonie, Nouméa, Nouvelle-Calédonie. June 2012.  
 
 8. Island biogeography and Anoles in the West Indies. Invited by the Herpetological society of the Bangor University, Wales. April 2009.
+
+![](/img/conf.jpg)
