@@ -12,5 +12,5 @@ Enhancing our knowledge of the processes that shape ecological community structu
 Maple forest in autumn.
 
 ![](/img/pedon.jpg)
-Beautiful podzol with large amount of organic matter.
+Beautiful podzol with large amount of organic matter.  
 Collaborators: Etienne Laliberté, Ben Turner and Simon Joly

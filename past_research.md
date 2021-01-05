@@ -17,8 +17,6 @@ June-July 2011 : Unité d’écologie des forêts de Guyane, Cnrs/Inra, Kourou, 
 ![](/img/canopy.jpg)
 <div style="text-align: right">Canopy morning view, Guyane</div>
 
-<br/>
-
 - Invasive plant surveys, cartographic analysis and management proposals.  
 June-August 2010 : Conservatoire botanique national méditerranéen de Porquerolles, France.
 
