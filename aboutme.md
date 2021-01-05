@@ -5,12 +5,14 @@ title: About me
 ### My history
 
 <div style="text-align: justify">
+
 Raised in the Antilles, educated in Europe and trained as a researcher around the world.  
 Since 2016, I have been interested in better understanding the impact of the symbiotic association between trees and fungi on the distribution, dynamics and functioning of forests and especially maple forests in Québec. To explore the soil of these forests, I combine different approaches ranging from descriptive to greenhouse and field experiments, bioinformatics and statistical analysis. I am constantly looking for new methods and I also try to share them to the best of my knowledge.  
 Before that, I had the privilege of studying in several universities in Europe and participated in different research projects around the world. When I was not doing research, I taught biology, geology and sustainable development to teenagers.
 
-***
+</div>
 
+***
 
 ### Affiliations
 - Institutional page [link](https://bio.umontreal.ca/repertoire-departement/etudiants-aux-cycles-superieurs/alexis-carteron/#c124868)
@@ -20,7 +22,7 @@ Before that, I had the privilege of studying in several universities in Europe a
 - Quebec Centre for Biodiversity Science ([link](https://qcbs.ca/))
 - Centre for Forest Research ([link](http://www.cef-cfr.ca/))
 
-![](/img/centre1.jpg)
+![](/img/centre2.jpg)
 
 ***
 
