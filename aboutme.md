@@ -18,8 +18,7 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 - Quebec Centre for Biodiversity Science ([link](https://qcbs.ca/))
 - Centre for Forest Research ([link](http://www.cef-cfr.ca/))
 
-![](/img/centre2.jpg)
-<div style="text-align: right">Centre sur la biodiversité</div>
+![](/img/centre2.jpg)Centre sur la biodiversité
 
 ***
 
@@ -32,8 +31,7 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 
 - 2007-2010: B.Sc. in ecology, Université de Toulouse III, France
 
-![](/img/mytilene.jpg)
-<div style="text-align: right">Mytilene, Greece</div>
+![](/img/mytilene.jpg)Mytilene, Greece
 
 ***
 
@@ -56,8 +54,7 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 - September 2015-December 2015 and September 2013-June 2014: Secondary school teacher in biology and geology in France.
 - October 2014-May 2015: Civic service volunteer, environmental educator, Brest, France.
 
-![](/img/bog.jpg)
-<div style="text-align: right">Bog plant identification, Laurentides</div>
+![](/img/bog.jpg)Bog plant identification, Laurentides
 
 ***
 
@@ -72,8 +69,7 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 - Online bilingual (franch-english) tutorials [Link](https://alexiscarter.github.io/metab/)
 - Animator of the "Microbes club", discussion group composed of students, postdoc and prof of different universities in Montréal [Link](https://drive.google.com/drive/folders/0B7_16MCMWouWWjVkTktubU10dVU)
 
-![](/img/BIOME_lake.jpg)
-<div style="text-align: right">BIOME workshop participants, Laurentides</div>
+![](/img/BIOME_lake.jpg)BIOME workshop participants, Laurentides
 
 ***
 
