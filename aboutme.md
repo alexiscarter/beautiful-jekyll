@@ -54,7 +54,7 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 - September 2015-December 2015 and September 2013-June 2014: Secondary school teacher in biology and geology in France.
 - October 2014-May 2015: Civic service volunteer, environmental educator, Brest, France.
 
-![](/img/bog.jpg)Bog plant identification, Laurentides
+![](/img/class.jpg)Teaching biostatistics
 
 ***
 
