@@ -26,6 +26,8 @@ navbar-links:
     - Publications: "publications"
     - Communications: "Communications"
 
+  Skills: "skills"
+
   Resources:
     - BIOME workshop: "https://alexiscarter.github.io/BIOME/"
     - metab workshop: "https://alexiscarter.github.io/metab/"
