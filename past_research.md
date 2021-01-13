@@ -14,10 +14,10 @@ September 2011-June 2012: Université de la Nouvelle-Calédonie, Nouméa, Nouvel
 - Insect communities, environmental conditions and functional traits of bromeliads.  
 June-July 2011 : Unité d’écologie des forêts de Guyane, Cnrs/Inra, Kourou, Guyane.  
 
-![](/img/canopy.jpg)Canopy morning view, Guyane
-
 - Invasive plant surveys, cartographic analysis and management proposals.  
 June-August 2010 : Conservatoire botanique national méditerranéen de Porquerolles, France.
 
 - Habitat, local adaptation and population management of the Dominican anole.  
 September 2009-June 2010: Bangor University, Wales.
+
+![](/img/canopy.jpg)Canopy morning view, Guyane
