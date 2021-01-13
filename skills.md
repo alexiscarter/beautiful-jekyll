@@ -9,13 +9,13 @@ title: My Skills
 
 As an R enthousiast, I mainly used this progamming language.
 
-- Multivariate
+- Modeling: Using linear, mixed, generalized and hurdle models
+
+- Multivariate approach
 
 ![](/img/Fig4.jpg)Constrained ordination of a fungal community by soil chemistry variables using a distance-based redundancy analysis with Bray-Curtis dissimilarities.
 
-- Modeling: Using linear, mixed, generalized and hurdle models
-
-- Spatial
+- Spatial visualization
 
 ![](/img/map_world_ecmprop.jpg) Ectomycorrhizal tree proportion across the globe (data from Steidinger et al. 2019 https://doi.org/10.1038/s41586-019-1128-0).
 
