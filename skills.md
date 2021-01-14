@@ -29,6 +29,10 @@ Using primers for fungi (ITS and LSU) and plants (rbcL).
 **Analyses of sequencing data**
 ![](/img/index.png)Percentage of reads per samples kept after different steps of denoising.
 
+
+eDNA metabarcoding: From raw data to RDA (fun bilingual tutorials on DADA2 and phyloseq [here](https://alexiscarter.github.io/metab/)).  
+Materials of the BIOME workshop on advanced bioinformatics [here](https://github.com/alexiscarter/BIOME).
+
 ## Soft skills  
 **Language**  
 My mother tongue is French. I am fluent in English. Also intermediate in Spanish and beginner in Portguese.  
@@ -38,3 +42,13 @@ I really enjoy learning about new languages and local cultures.
 **Teaching**  
 **Funding**  
 **Project management**
+
+meta-analyses
+Writing of scholarships, and research funds
+Teaching (different level, training)
+Laboratory skills
+Managing, coordination
+Supervision of mentees
+Phylogenetic
+Experimental design
+fieldwork
