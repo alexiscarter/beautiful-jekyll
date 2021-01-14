@@ -38,13 +38,3 @@ I really enjoy learning about new languages and local cultures.
 **Teaching**  
 **Funding**  
 **Project management**
-
-meta-analyses
-Writing of scholarships, and research funds
-Teaching (different level, training)
-Laboratory skills
-Managing, coordination
-Supervision of mentees
-Phylogenetic
-Experimental design
-fieldwork
