@@ -11,7 +11,7 @@ As an R enthousiast, I mainly used this progamming language. I present some exam
 
 **Modeling**
 <p align="center">
-  <img width="300" src="/img/mod.q0.full.AM.png">
+  <img width="600" src="/img/mod.q0.full.AM.png">
 </p>
 Effect of mycorrhizal proportion on tree species diversity using a generalized linear mixed-effect model with a truncated Poisson distribution implemented in a Bayesian framework.
 <br>
@@ -36,7 +36,7 @@ Using primers for fungi (ITS and LSU) and plants (rbcL).
 
 **Analyses of sequencing data**
 <p align="center">
-  <img width="300" src="/img/index.png">
+  <img width="600" src="/img/index.png">
 </p>
 Percentage of reads per samples kept after different steps of denoising.
 
