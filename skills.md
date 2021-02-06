@@ -11,7 +11,7 @@ As an R enthousiast, I mainly used this progamming language. I present some exam
 
 **Modeling**
 <p align="center">
-  <img width="600" src="/img/mod.q0.full.AM.png">
+  <img width="500" src="/img/mod.q0.full.AM.png">
 </p>
 Effect of mycorrhizal proportion on tree species diversity using a generalized linear mixed-effect model with a truncated Poisson distribution implemented in a Bayesian framework.
 <br>
@@ -25,7 +25,7 @@ Effect of mycorrhizal proportion on tree species diversity using a generalized l
 **Large database management**
 ![](/img/map_us_rich.jpg)Tree richness at the community scale across the U.S. calculated for ~85,00 plots containing >2 million trees, retrieved from the FIA database (https://apps.fs.usda.gov/fia/datamart/).
 
-**Meta-analyses**
+**Meta-analyses**  
 I have followed several workshops given about meta-analysis and hope put it in practice very soon!
 
 
