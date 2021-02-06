@@ -9,8 +9,12 @@ title: My Skills
 
 As an R enthousiast, I mainly used this progamming language. I present some examples below.
 
-**Modeling**  
-Using linear, mixed, generalized and hurdle models.
+**Modeling**
+<p align="center">
+  <img width="300" src="/img/mod.q0.full.AM.png">
+</p>
+Effect of mycorrhizal proportion on tree species diversity using a generalized linear mixed-effect model with a truncated Poisson distribution implemented in a Bayesian framework.
+<br>
 
 **Multivariate approach**
 ![](/img/Fig4.jpg)Constrained ordination of a fungal community by soil chemistry variables using a distance-based redundancy analysis with Bray-Curtis dissimilarities.
@@ -21,14 +25,20 @@ Using linear, mixed, generalized and hurdle models.
 **Large database management**
 ![](/img/map_us_rich.jpg)Tree richness at the community scale across the U.S. calculated for ~85,00 plots containing >2 million trees, retrieved from the FIA database (https://apps.fs.usda.gov/fia/datamart/).
 
+**Meta-analyses**
+I have followed several workshops given about meta-analysis and hope put it in practice very soon!
+
+
 ## Metabarcoding
 
 **DNA extraction and amplification**  
 Using primers for fungi (ITS and LSU) and plants (rbcL).
 
 **Analyses of sequencing data**
-![](/img/index.png)Percentage of reads per samples kept after different steps of denoising.
-
+<p align="center">
+  <img width="300" src="/img/index.png">
+</p>
+Percentage of reads per samples kept after different steps of denoising.
 
 eDNA metabarcoding: From raw data to RDA (fun bilingual tutorials on DADA2 and phyloseq [here](https://alexiscarter.github.io/metab/)).  
 Materials of the BIOME workshop on advanced bioinformatics [here](https://github.com/alexiscarter/BIOME).
