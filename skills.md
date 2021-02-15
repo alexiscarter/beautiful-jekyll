@@ -5,6 +5,8 @@ title: My Skills
 
 /!\ Currently under construction
 
+"[...] the idea that the value of a scientist lies more in their acquired skills and experiences than the facts in their heads." From the book *Impact Science* written by Bruno Sánchez-Andrade Nuño
+
 ## Data manipulation and analyses
 
 As an R enthousiast, I mainly used this progamming language. I present some examples below.
@@ -28,6 +30,7 @@ Effect of mycorrhizal proportion on tree species diversity using a generalized l
 **Meta-analyses**  
 I have followed several workshops given about meta-analysis and hope put it in practice very soon!
 
+***
 
 ## Metabarcoding
 
@@ -43,23 +46,60 @@ Percentage of reads per samples kept after different steps of denoising.
 eDNA metabarcoding: From raw data to RDA (fun bilingual tutorials on DADA2 and phyloseq [here](https://alexiscarter.github.io/metab/)).  
 Materials of the BIOME workshop on advanced bioinformatics [here](https://github.com/alexiscarter/BIOME).
 
+***
+
 ## Soft skills  
 **Language**  
 My mother tongue is French. I am fluent in English. Also intermediate in Spanish and beginner in Portguese.  
 I really enjoy learning about new languages and local cultures.
 
-**Strong team player**  
 **Teaching**  
-**Funding**  
-**Project management**
+I love teaching and have had the opportunity to share my passion and knowledge with students of different ages and backgrounds.
+
+- 2019: Lecturer, Plant ecology fieldwork course, Université de Montréal, Canada (Student satisfaction score: 96%).
+- 2018: Teaching assistant, Fungal diversity course, Université de Montréal, Canada.
+- 2016, 2017, 2018: Head teaching assistant, Plant ecology fieldwork course, Université de Montréal, Canada.
+- 2016: Tutor, Biodiversity course, Université de Montréal, Canada
+- September 2015-December 2015 and September 2013-June 2014: Secondary school teacher in biology and geology in France.
+- October 2014-May 2015: Civic service volunteer, environmental educator, Brest, France.
+
+![](/img/class.jpg)Teaching biostatistics
+
+I also had the chance to take several workshops to *learn* how to teach.
+
+**Student supervision and mentoring**  
+Most of the time teamwork is successful or even necessary to do research. I really enjoy working with others and I believe to be a strong team player. I had the opportunity to work with great mentors and supervise amazing persons:
+- Mathilde L.: B.Sc. in biological sciences, Université de Montréal, Canada (September-December 2018)
+- Florence B.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2018)
+- Fabien C.: M.Sc. in biodiversity, ecology and evolution, Université Aix Marseille (March-August 2018)
+- Florian P.: Environmental engineering, École nationale des travaux publics de l'état, France (April-August 2017)
+- Rose-Marie G.: Diploma in Bio-ecology, Cégep de Sherbrooke (May-July 2017)
+- Émilie T.: B.Sc. in biological sciences, Université de Montréal, Canada (August-October 2016)
+- Rosalie B.: B.Sc. in biological sciences, Université de Montréal, Canada (August-September 2016)
+- Joric G.: B.Sc. in biological sciences, Université de Montréal, Canada (July-August 2016)
+- Vlad P.: Horticultural engineering, AgroCampus Ouest, France (June-August 2016)
+- Azucena H.: Sustainable development engineering, Instituto Tecnológico y de Estudios Superiores de Monterrey, Mexico (May-August 2016)
+- Myriam L.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2016)
+- Marie B.: Biotechnology engineering, école d’ingénieurs Polytech Marseille, France (May-July 2016)
+
+***
+## Functional ecology  
+
+***
+
+## Soil analyses  
+
+***
+
+## Fieldwork and experiment  
 
 <!---
+**Funding**  
+**Project management**
 meta-analyses
 Writing of scholarships, and research funds
-Teaching (different level, training)
 Laboratory skills
 Managing, coordination
-Supervision of mentees
 Phylogenetic
 Experimental design
 fieldwork

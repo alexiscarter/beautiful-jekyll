@@ -5,7 +5,7 @@ title: About Me
 ### My history
 
 <div style="text-align: justify">
-Raised in the Antilles, educated in Europe and trained as a researcher around the world. Since 2016, I have been interested in better understanding the impact of the symbiotic association between trees and fungi on the distribution, dynamics and functioning of forests and especially maple forests in Québec. To explore the soil of these forests, I combine different approaches ranging from descriptive to greenhouse and field experiments, bioinformatics and statistical analysis. I am constantly looking for new methods and I also try to share them to the best of my knowledge. Before that, I had the privilege of studying in several universities in Europe and participated in different research projects around the world. When I was not doing research, I taught biology, geology and sustainable development to teenagers.
+Raised in the Antilles, educated in Europe and trained as a researcher around the world to better understand the impact of plant-soil interactions on the dynamics and functioning of terrestrial ecosystems. During my Ph.D., I have been interested in better understanding the impact of the symbiotic association between trees and fungi on the distribution, dynamics and functioning of forests and especially maple forests in Québec. To explore the aboveground-belowground linkages, I combines a wide variety of approaches ranging from greenhouse and field experiments to bioinformatics and modelling. I am constantly looking for new methods and I also trying to share them to the best of my knowledge. Before that, I had the privilege of studying in several universities in Europe and participated in different research projects around the world. When I was not doing research, I taught biology, geology and sustainable development to teenagers.
 </div>
 
 ***
@@ -36,25 +36,13 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 ***
 
 ### Outstanding Awards
-- Hydro-Québec excellence fellow, Université de Montréal, Canada (2019).
+- Hydro-Québec excellence fellow, Université de Montréal, Canada (2019-2020).
 
-- Marie-Victorin excellence fellow, Institut de recherche en biologie végétale, Canada (2018, [link](https://www.irbv.umontreal.ca/2018/bourse-marie-victorin-9e-recipiendaire?lang=en))  
+- Marie-Victorin excellence fellow, Institut de recherche en biologie végétale, Canada (2018-2019, [link](https://www.irbv.umontreal.ca/2018/bourse-marie-victorin-9e-recipiendaire?lang=en))  
 
-- Student success fellow, Faculté des études supérieures et postdoctorales, Université de Montréal, Canada (2017)   
+- Student success fellow, Faculté des études supérieures et postdoctorales, Université de Montréal, Canada (2017-2018)   
 
 - Fellow of the *Institut de l'engagement* (2015, [link](https://www.engagement.fr/))
-
-***
-
-### Teaching
-- 2019: Lecturer, Plant ecology fieldwork course, Université de Montréal, Canada (Student satisfaction score: 96%).
-- 2018: Teaching assistant, Fungal diversity course, Université de Montréal, Canada.
-- 2016, 2017, 2018: Head teaching assistant, Plant ecology fieldwork course, Université de Montréal, Canada.
-- 2016: Tutor, Biodiversity course, Université de Montréal, Canada
-- September 2015-December 2015 and September 2013-June 2014: Secondary school teacher in biology and geology in France.
-- October 2014-May 2015: Civic service volunteer, environmental educator, Brest, France.
-
-![](/img/class.jpg)Teaching biostatistics
 
 ***
 
@@ -70,19 +58,3 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 - Animator of the "Microbes club", discussion group composed of students, postdoc and prof of different universities in Montréal [Link](https://drive.google.com/drive/folders/0B7_16MCMWouWWjVkTktubU10dVU)
 
 ![](/img/BIOME_lake.jpg)BIOME workshop participants, Laurentides
-
-***
-
-### Student supervision and mentoring
-- Mathilde L.: B.Sc. in biological sciences, Université de Montréal, Canada (September-December 2018)
-- Florence B.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2018)
-- Fabien C.: M.Sc. in biodiversity, ecology and evolution, Université Aix Marseille (March-August 2018)
-- Florian P.: Environmental engineering, École nationale des travaux publics de l'état, France (April-August 2017)
-- Rose-Marie G.: Diploma in Bio-ecology, Cégep de Sherbrooke (May-July 2017)
-- Émilie T.: B.Sc. in biological sciences, Université de Montréal, Canada (August-October 2016)
-- Rosalie B.: B.Sc. in biological sciences, Université de Montréal, Canada (August-September 2016)
-- Joric G.: B.Sc. in biological sciences, Université de Montréal, Canada (July-August 2016)
-- Vlad P.: Horticultural engineering, AgroCampus Ouest, France (June-August 2016)
-- Azucena H.: Sustainable development engineering, Instituto Tecnológico y de Estudios Superiores de Monterrey, Mexico (May-August 2016)
-- Myriam L.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2016)
-- Marie B.: Biotechnology engineering, école d’ingénieurs Polytech Marseille, France (May-July 2016)
