@@ -5,9 +5,9 @@ title: Publications
 
 #### Plant-soil interactions
 
-Carteron A, Vellend M, Laliberté E. Mycorrhizal dominance reduces forest-tree species diversity. Submitted.
+Carteron A, Vellend M, Laliberté E. Mycorrhizal dominance reduces forest-tree species diversity. [DOI](https://doi.org/10.1101/2021.01.23.427902)
 
-Carteron A, Cichonski F, Laliberté E. Ectomycorrhizas accelerate decomposition to a greater extent than arbuscular mycorrhizas in a northern deciduous forest. Submitted.
+Carteron A, Cichonski F, Laliberté E. Ectomycorrhizas accelerate decomposition to a greater extent than arbuscular mycorrhizas in a northern deciduous forest. [DOI](https://doi.org/10.1101/2021.02.09.430490)
 
 Carteron A, Beigas M, Joly S, Turner B L, Laliberté E. 2020. Temperate forests dominated by arbuscular or ectomycorrhizal fungi are characterized by strong shifts from saprotrophic to mycorrhizal fungi with increasing soil depth. Microbial Ecology. [DOI](https://doi.org/10.1007/s00248-020-01540-7) [PDF](/article/AAM_MicrobEcol_Carteron_etal_2020.pdf) [Free](https://rdcu.be/b49t7)
 

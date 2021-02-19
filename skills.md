@@ -3,9 +3,10 @@ layout: page
 title: My Skills
 ---
 
-/!\ Currently under construction
+<blockquote>
+[...] the idea that the value of a scientist lies more in their acquired skills and experiences than the facts in their heads.   -- <cite>Bruno Sánchez-Andrade Nuño</cite>
+</blockquote>
 
-"[...] the idea that the value of a scientist lies more in their acquired skills and experiences than the facts in their heads." From the book *Impact Science* written by Bruno Sánchez-Andrade Nuño
 
 ## Data manipulation and analyses
 
@@ -68,7 +69,7 @@ I love teaching and have had the opportunity to share my passion and knowledge w
 I also had the chance to take several workshops to *learn* how to teach.
 
 **Student supervision and mentoring**  
-Most of the time teamwork is successful or even necessary to do research. I really enjoy working with others and I believe to be a strong team player. I had the opportunity to work with great mentors and supervise amazing persons:
+Most of the time teamwork is successful or even necessary to do research. I really enjoy working with others and I believe to be a strong team player. I had the opportunity to work with great mentors. In my turn, I have mentored and supervised amazing research assistants:
 - Mathilde L.: B.Sc. in biological sciences, Université de Montréal, Canada (September-December 2018)
 - Florence B.: B.Sc. in biological sciences, Université de Montréal, Canada (May-August 2018)
 - Fabien C.: M.Sc. in biodiversity, ecology and evolution, Université Aix Marseille (March-August 2018)
@@ -83,6 +84,8 @@ Most of the time teamwork is successful or even necessary to do research. I real
 - Marie B.: Biotechnology engineering, école d’ingénieurs Polytech Marseille, France (May-July 2016)
 
 ***
+
+/!\ Currently under construction
 ## Functional ecology  
 
 ***
