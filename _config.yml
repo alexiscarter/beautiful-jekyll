@@ -19,9 +19,7 @@ description: Personal website
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Mycorrhizal Diversity: "research_div"
-    - Mycorrhizas and Decomposition: "research_decompo"
-    - Range shifts: "research_migration"
+    - Current research: "research div"
     - Past research: "past_research"
     - Publications: "publications"
     - Communications: "Communications"

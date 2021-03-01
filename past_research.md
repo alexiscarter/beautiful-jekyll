@@ -4,7 +4,7 @@ title:
 ---
 
 
-### Past Research
+# Past Research
 - Functional diversity and resilience of local forest ecosystems in extreme climate events.  
 February 2013-June 2013: Lincoln University, New-Zealand.  
 
