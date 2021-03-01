@@ -19,7 +19,7 @@ description: Personal website
 navbar-links:
   About Me: "aboutme"
   Research:
-    - Current research: "research div"
+    - Current research: "research_div"
     - Past research: "past_research"
     - Publications: "publications"
     - Communications: "Communications"
