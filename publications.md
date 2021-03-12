@@ -20,7 +20,7 @@ Carteron A, Parasquive V, Blanchard F, Guilbeault-Mayers X, Turner BL, Vellend M
 
 #### Environmental changes
 
-Vellend M, Béhé M, Carteron A, Crofts A, Danneyrolles V, Gamhewa H, Glaus V, Plourde-Rouleau A, Ni M, Rinas C, Watts D. Plant responses to environmental change along an elevational gradient in Mont Mégantic National Park, Québec, Canada. Accepted.
+Vellend M, Béhé M, Carteron A, Crofts A, Danneyrolles V, Gamhewa H, Glaus V, Plourde-Rouleau A, Ni M, Rinas C, Watts D. Plant responses to environmental change along an elevational gradient in Mont Mégantic National Park, Québec, Canada. Northeastern Naturalist. In press.
 
 Girard A, Schweiger AK, Carteron A, Kalacska M, Laliberté E. 2020. Foliar spectra and traits of bog plants across nitrogen deposition gradients. Remote Sensing 12, 2448. [DOI](https://doi.org/10.3390/rs12152448)
 

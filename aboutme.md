@@ -47,7 +47,7 @@ Raised in the Antilles, educated in Europe and trained as a researcher around th
 ***
 
 ### Service
-- Peer Review: Plant and Soil [Link](https://publons.com/researcher/1728481/alexis-carteron/)
+- Peer Review: Plant and Soil (Royal Netherlands Society of Agricultural Science) and Botany (Canadian Science Publishing) [Link](https://publons.com/researcher/1728481/alexis-carteron/)
 - R coordinator for the QCBS (2019-2020, [Link](https://qcbs.ca/wiki/r))
 - Organizing committee of the Microbial Ecology Seminar Series of the QCBS (2018-2019, [Link](https://wiki.qcbs.ca/microecoconf))
 - President of the graduate biology student association, Université de Montréal (2018-2019, [Link](https://biologiecsudem.weebly.com/))
